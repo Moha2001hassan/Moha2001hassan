@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
-<h3 align="center">A passionate Android Developer from Egypt</h3>
+<h3 align="center">An junior Android Developer from Egypt</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Android Studio, Java, Kotlin, Xml, OOP**
+- 💬 Ask me about **Android Studio, Java, Kotlin, Jetpack-Compose, OOP**
 
 - 📫 How to reach me **mohahassan42933@gmail.com**
 
