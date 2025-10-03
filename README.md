@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
-<h3 align="center">Junior Mobile App Developer [Flutter - Android Native]</h3>
+<h3 align="center">Junior Mobile App Developer | Data Analyst</h3>
 
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Flutter, Android, Dart, Java, Kotlin, Jetpack-Compose**
+- 💬 Ask me about **Flutter, Android, Dart, Java, Kotlin, Excel ,Power BI ,SQL ,Python**
 
 - 📫 How to reach me **mohahassan42933@gmail.com**
 
